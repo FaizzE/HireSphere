@@ -33,11 +33,3 @@
 | ![home](./screenshots/home.png) | ![recruiter](./screenshots/recruiter.png) | ![seeker](./screenshots/seeker.png) |
 
 ---
-
-## 🧑‍💻 Installation
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/FaizzE/hiresphere.git
-cd hiresphere
